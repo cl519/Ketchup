@@ -1,38 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ketchup
+Introducing Ketchup: Redefining Social Media for Friend Groups
 
-## Getting Started
+Ketchup is a revolutionary social media platform that enables friend groups to curate and share content together. Unlike existing mainstream platforms, which prioritize accumulating new connections over time, Ketchup acknowledges the dynamic nature of friend groups. Our mission is to create an engaging social media experience that strengthens connections within friend groups, fostering personalized interactions and shared content.
 
-First, run the development server:
+With Ketchup, our goal is to create a dynamic environment for friend groups, empowering users to freely express their thoughts, share memorable moments, and engage with curated content alongside their closest circles, without the fear of overwhelming their entire network or compromising their privacy. Each post is treated as a thread, ensuring that content remains easily accessible and reviewable, fostering meaningful isolated conversations.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+By focusing on friend group interactions, Ketchup unlocks a whole new level of engagement and collaboration. Users can effortlessly share specific content with the exact audience they intend, ensuring that messages, updates, and media resonate with the right people. Our platform provides a dedicated space for friend groups to strengthen bonds, exchange ideas, plan activities, and reminisce, all in an intuitive and user-friendly manner.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Embrace the dynamic nature of friend groups with Ketchup's curated feed format, empowering precise and authentic online experiences. Say goodbye to disorganized group chats and effortlessly keep track of conversations within your friend groups. Seamlessly combining the best aspects of posting and chatting, Ketchup reinvents social media for friend groups, making it easier than ever to stay connected, share life's moments, and engage meaningfully.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+Join us on this exciting journey as we recreate the social media landscape, one friend group at a time. Together, let's rediscover the joy of meaningful connections in the digital age.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
